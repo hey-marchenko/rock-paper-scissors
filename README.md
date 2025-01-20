@@ -13,7 +13,7 @@ Project consists of a simple Python script that allows user to play 'Rock, Paper
 
 <p align="center">
 Game's Output: <br/>
-<img src="https://imgur.com/a/a8FFuu7" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/yJewhd9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   
 
 <!--
